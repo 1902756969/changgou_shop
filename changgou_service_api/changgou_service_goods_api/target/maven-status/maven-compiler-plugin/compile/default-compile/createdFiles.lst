@@ -1,0 +1,15 @@
+com\changgou\goods\pojo\Brand.class
+com\changgou\goods\pojo\Spec.class
+com\changgou\goods\pojo\Spu.class
+com\changgou\goods\feign\SpuFeign.class
+com\changgou\goods\pojo\Category.class
+com\changgou\goods\pojo\Sku.class
+com\changgou\goods\feign\CategoryFeign.class
+com\changgou\goods\pojo\Pref.class
+com\changgou\goods\pojo\Log.class
+com\changgou\goods\feign\SkuFeign.class
+com\changgou\goods\pojo\Album.class
+com\changgou\goods\pojo\Goods.class
+com\changgou\goods\pojo\Para.class
+com\changgou\goods\pojo\Template.class
+com\changgou\goods\pojo\CategoryBrand.class

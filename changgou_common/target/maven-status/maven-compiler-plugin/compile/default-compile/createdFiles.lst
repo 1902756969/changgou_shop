@@ -1,0 +1,5 @@
+com\changgou\entity\StatusCode.class
+com\changgou\entity\PageResult.class
+com\changgou\entity\Result.class
+com\changgou\entity\Page.class
+com\changgou\util\IdWorker.class
