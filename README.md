@@ -1,6 +1,24 @@
 ## 微服务项目-畅购商城
 
 ## 一、技术架构
+前端及WEB技术栈
+Vue.js Node.js Lua HTML5 ElementUl Theamleaf 
+
+运维技术栈
+Cannal Docker容器 FastDFS Eureka集群 Redis集群 Elasticsear 
+部署 ch集群 
+
+分布式架构及权限技术栈
+Spring Security CAS单点登录 JWT 
+SpringBoot SpringCloud 
+
+持久化技术栈
+mybatis SpringDataRedis SpringDataElasticsearch 
+
+数据库&消息队列技术栈  
+
+mySQL读写分离
+ RabbitMQ 
 
 ![1-4](https://img1.imgtp.com/2022/09/18/TdHUJIed.png)
 
