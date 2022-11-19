@@ -1,0 +1,5 @@
+com\changgou\system\pojo\Role.class
+com\changgou\system\pojo\Menu.class
+com\changgou\system\pojo\Resource.class
+com\changgou\system\pojo\LoginLog.class
+com\changgou\system\pojo\Admin.class

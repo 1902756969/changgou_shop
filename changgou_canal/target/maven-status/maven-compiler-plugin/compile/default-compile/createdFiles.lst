@@ -1,0 +1,4 @@
+com\changgou\canal\CanalApplication.class
+com\changgou\canal\listener\SpuListener.class
+com\changgou\canal\config\RabbitMQConfig.class
+com\changgou\canal\listener\BusinessListener.class

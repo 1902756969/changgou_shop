@@ -1,0 +1,4 @@
+com\changgou\file\FileApplication.class
+com\changgou\file\util\FastDFSClient.class
+com\changgou\file\controller\FileController.class
+com\changgou\file\util\FastDFSFile.class

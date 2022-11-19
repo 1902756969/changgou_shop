@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service/changgou_service_file/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service_api/changgou_service_search_api/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service/changgou_service_page/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-user-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_common_db/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_common_fescar/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_task/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service/changgou_service_seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service_api/changgou_service_seckill_api/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_web/changgou_web_seckill/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/changgou_service/changgou-service-page/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service/changgou_search/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

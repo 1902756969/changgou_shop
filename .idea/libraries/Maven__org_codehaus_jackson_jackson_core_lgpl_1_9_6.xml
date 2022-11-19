@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.jackson:jackson-core-lgpl:1.9.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../develop/apache-maven-3.6.0-bin/mvn_repositry/mvn_repository/org/codehaus/jackson/jackson-core-lgpl/1.9.6/jackson-core-lgpl-1.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../develop/apache-maven-3.6.0-bin/mvn_repositry/mvn_repository/org/codehaus/jackson/jackson-core-lgpl/1.9.6/jackson-core-lgpl-1.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../develop/apache-maven-3.6.0-bin/mvn_repositry/mvn_repository/org/codehaus/jackson/jackson-core-lgpl/1.9.6/jackson-core-lgpl-1.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

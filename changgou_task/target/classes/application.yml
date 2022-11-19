@@ -1,0 +1,7 @@
+server:
+  port: 9202
+spring:
+  application:
+    name: task
+  rabbitmq:
+    host: 192.168.200.128

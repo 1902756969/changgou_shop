@@ -1,0 +1,6 @@
+com\changgou\config\service\FreightTemplateService.class
+com\changgou\config\controller\BaseExceptionHandler.class
+com\changgou\config\controller\FreightTemplateController.class
+com\changgou\ConfigApplication.class
+com\changgou\config\service\impl\FreightTemplateServiceImpl.class
+com\changgou\config\dao\FreightTemplateMapper.class
