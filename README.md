@@ -2,6 +2,7 @@
 
 <meta name="referrer" content="no-referrer">
 
+
 ## 一、技术架构
 
 前端及WEB技术栈 Vue.js Node.js Lua HTML5 ElementUl Theamleaf
@@ -16,6 +17,7 @@
 
 mySQL读写分离 RabbitMQ
 
+<meta name="referrer" content="no-referrer">
 
 
 ![image-20221119152711480](https://picgo-1308041230.cos.ap-nanjing.myqcloud.com/img/202212281500698.png)
@@ -28,7 +30,7 @@ mySQL读写分离 RabbitMQ
 
 ## mysql截图
 
-![image-20221119152206338](https://i0.hdslb.com/bfs/album/9a99074a3e2348e573c4e05aa74825cd1b80aae5.png)
+![image-20221119152206338](https://pic.imgdb.cn/item/63abf03508b683016383c5d0.png)
 
 
 
@@ -42,7 +44,7 @@ CentOs虚拟机账号：root  		密码123456
 
 订单服务需要开启fescar-server
 
-![image-20221119153046126](https://i0.hdslb.com/bfs/album/fba4b4861d96c941114be5a77b975bc3519aa7b9.png)
+![image-20221119153046126](https://pic.imgdb.cn/item/63abf03a08b683016383d181.png)
 
 ### 1）下单支付功能
 
@@ -50,33 +52,33 @@ CentOs虚拟机账号：root  		密码123456
 
 [localhost:8001/api/wcart/add?skuId=100000006163&num=5](http://localhost:8001/api/wcart/add?skuId=100000006163&num=5)
 
-![image-20221119175544028](https://i0.hdslb.com/bfs/album/9615949f6854511bedd638d0448d142f4dfe7877.png)
+![image-20221119175544028](https://pic.imgdb.cn/item/63abf03e08b683016383d9db.png)
 
 购物车
 
 http://localhost:8001/api/wcart/list#
 
-<img src="https://i0.hdslb.com/bfs/album/18362d461454bcfccb5bc7a0df0465d22b910bba.png" alt="image-20221119175910145" style="zoom:50%;" />
+<img src="https://pic.imgdb.cn/item/63abf04008b683016383dfa1.png" alt="image-20221119175910145" style="zoom:50%;" />
 
 订单结算页面
 
 http://localhost:8001/api/worder/ready/order
 
-![image-20221119180004639](https://i0.hdslb.com/bfs/album/9c22b58f0ee7ac224fa90e95cb72d34298b5131c.png)
+![image-20221119180004639](https://pic.imgdb.cn/item/63abf04308b683016383e7ba.png)
 
 
 
 点击提交订单
 
-![image-20221119180028583](https://i0.hdslb.com/bfs/album/a2d2e5425f7c150c22f4da7522b6fb3563316fe8.png)
+![image-20221119180028583](https://pic.imgdb.cn/item/63abf04a08b683016383f811.png)
 
 点击确定跳转
 
-![image-20221119180043982](https://i0.hdslb.com/bfs/album/4dde17c0bdf53185aa5632b2632a39a3921ca93f.png)
+![image-20221119180043982](https://pic.imgdb.cn/item/63abf04708b683016383f008.png)
 
 点击微信支付
 
-![image-20221119180558806](https://i0.hdslb.com/bfs/album/385d93f1d8f12e82b746ddcb043f310379154a1d.png)
+![image-20221119180558806](https://pic.imgdb.cn/item/63abf05f08b683016384367a.png)
 
 
 
