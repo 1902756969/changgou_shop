@@ -18,7 +18,7 @@ mySQL读写分离 RabbitMQ
 
 
 
-![image-20221119152711480](https://i0.hdslb.com/bfs/album/804e08775a9be4d58249ab5a97542c80aa8ac63e.png)
+![image-20221119152711480](https://picgo-1308041230.cos.ap-nanjing.myqcloud.com/img/202212281500698.png)
 
 ####  系统架构图
 
