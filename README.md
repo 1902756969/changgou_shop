@@ -1,4 +1,4 @@
-## 微服务项目-黑马畅购商城
+## 微服务电商项目-畅购商城
 
 <meta name="referrer" content="no-referrer">
 
