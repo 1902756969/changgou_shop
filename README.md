@@ -1,3 +1,5 @@
+[![img](https://img.shields.io/badge/JDK-8+-green.svg) ](https://gitee.com/link?target=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologies%2Fjavase%2Fjavase-jdk8-downloads.html)
+
 ## 微服务电商项目-畅购商城
 
 <meta name="referrer" content="no-referrer">
